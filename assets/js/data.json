@@ -1,0 +1,57 @@
+[{
+    "date": "2024-09-13",
+    "all": true,
+    "category": "renginiai",
+    "title": "Renginiai Event 1",
+    "thumb": "/assets/img/events/02.png"
+},
+{
+    "date": "2024-09-13",
+    "all": true,
+    "category": "parodos",
+    "title": "Parodos Event 2",
+    "thumb": "/assets/img/events/03.png"
+},
+{
+    "date": "2024-09-13",
+    "all": true,
+    "category": "naujienos",
+    "title": "Naujienos Event 3",
+    "thumb": "/assets/img/events/01.png"
+},
+{
+    "date": "2024-09-15",
+    "all": true,
+    "category": "informacija",
+    "title": "Padovanok bibliotekai reikalingą knygą",
+    "thumb": "/assets/img/events/02.png"
+},
+{
+    "date": "2024-09-15",
+    "all": true,
+    "category": "parodos",
+    "title": "Geras sekmadienis su biblioteka!",
+    "thumb": "/assets/img/events/03.png"
+},
+{
+    "date": "2024-09-15",
+    "all": true,
+    "category": "renginiai",
+    "title": "Padovanok bibliotekai reikalingą knygą",
+    "thumb": "/assets/img/events/01.png"
+},
+{
+    "date": "2024-09-17",
+    "all": true,
+    "category": "renginiai",
+    "title": "Renginiai Event 6",
+    "thumb": "/assets/img/events/02.png"
+},
+{
+    "date": "2024-09-17",
+    "all": true,
+    "category": "naujienos",
+    "title": "Naujienos Event 7",
+    "thumb": "/assets/img/events/03.png"
+}
+]
