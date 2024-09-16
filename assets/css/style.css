@@ -225,6 +225,7 @@ header.fixed-header .logo img {max-width: 160px}
 
 .hamburger-wrapper {
 	display: flex;
+    padding: 15px 0;
 	width: 30px;
 	cursor: pointer;
 	z-index: 99999999;
@@ -1014,7 +1015,7 @@ footer .container-xl {
     }
     header.fixed-header .logo {padding-top: 0}
     .hamburger-wrapper {
-        display: inline-block;
+        display: block;
         margin-inline-start: 30px;
     }
     .header-elements {border-bottom: none;}
