@@ -43,6 +43,13 @@
 {
     "date": "2024-09-17",
     "all": true,
+    "category": "parodos",
+    "title": "Padovanok bibliotekai reikalingą knygą",
+    "thumb": "/assets/img/events/01.png"
+},
+{
+    "date": "2024-09-17",
+    "all": true,
     "category": "renginiai",
     "title": "Renginiai Event 6",
     "thumb": "/assets/img/events/02.png"
